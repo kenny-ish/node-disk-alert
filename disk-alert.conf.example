@@ -1,0 +1,9 @@
+# Telegram bot token from @BotFather and your chat id
+TELEGRAM_TOKEN=""
+TELEGRAM_CHAT=""
+# mount points / directories to watch (space separated)
+PATHS="/ /var/lib"
+# alert when usage % is above this
+THRESHOLD=85
+# alert when the disk is predicted to fill within this many days
+MIN_DAYS=14
